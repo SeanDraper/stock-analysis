@@ -14,7 +14,7 @@ The stocks in 2017 performed very well, with only one stock, TERP, having a nega
 
 ![2018 Results](resources/2018_results.png)
 
-The restuls for 2018 told a much different story, almost every stock had a negative return. ENPH and RUN were the only stocks to have a positive return with 81.9% and 84% respectively.
+The results for 2018 told a much different story, almost every stock had a negative return. ENPH and RUN were the only stocks to have a positive return with 81.9% and 84% respectively.
 
 ### Comparing Execution Times of Refactored Code
 
@@ -36,13 +36,13 @@ In the original loop shown above, we used a nested loop instead of utilizing tic
 
 ![2017 original popup](resources/2017_original_popup.png)
 
-![2017 refactored popup](resources/2017_popup.png)
+![2017 refactored popup](resources/VBA_Challenge_2017.png)
 
 You can see that the refactored code ran much faster for 2017 with a speed of about .1 seconds compared to .59 seconds from the original code.
 
 ![2018 original popup](resources/2018_original_popup.png)
 
-![2018 refactored popup](resources/2018_popup.png)
+![2018 refactored popup](resources/VBA_Challenge_2018.png)
 
 The same holds true for 2018 with a speed of about .14 seconds for the refactored code and .85 seconds for the original.
 
