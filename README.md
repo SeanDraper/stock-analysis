@@ -8,11 +8,11 @@ In this project we refactored existing VBA code to loop through thousands of row
 
 ### Comparing Stock Performance Between 2017 and 2018
 
-![2017 Results](resources/2017_results)
+![2017 Results](resources/2017_results.png)
 
 The stocks in 2017 performed very well, with only one stock, TERP, having a negative return. There were four stocks, DQ, ENPH, FSLR, and SEDG, that more than doubled their return.
 
-![2018 Results](resources/2018_results)
+![2018 Results](resources/2018_results.png)
 
 The restuls for 2018 told a much different story, almost every stock had a negative return. ENPH and RUN were the only stocks to have a positive return with 81.9% and 84% respectively.
 
