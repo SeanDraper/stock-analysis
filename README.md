@@ -18,7 +18,7 @@ The results for 2018 told a much different story, almost every stock had a negat
 
 ### Comparing Execution Times of Refactored Code
 
-[Link to Excel/VBA workbook with relavant data and code](https://github.com/SeanDraper/stock-analysis/blob/main/README.md)
+[Link to Excel/VBA workbook with relavant data and code](https://github.com/SeanDraper/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 By refactoring our code, we were able to dramatically increase the speed that the code was executed. The major difference between our original and refactored code was the use of the tickerIndex variable to keep track of which stock ticker was being referenced as the code looped through the data.
 
